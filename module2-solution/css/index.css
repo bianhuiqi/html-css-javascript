@@ -33,6 +33,7 @@
 
 		}
 		.p-sushi{
+			color: black;
 			float: right;
 			background-color: yellow;
 			padding: 5px 40px 5px 40px;
@@ -43,7 +44,7 @@
 		.mid{
 			background-color: gray;
 			border: 2px solid black;
-			height: 180px;
+			height: 160px;
 			margin:10px;
 		}
 
